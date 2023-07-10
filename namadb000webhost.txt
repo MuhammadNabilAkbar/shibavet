@@ -1,0 +1,3 @@
+db name : db_shibavet
+user	: root
+pw	: ptB(fZmpk#3\DzS9
